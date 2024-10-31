@@ -7,6 +7,7 @@ h1 {
 
 body {
    background-color: rgb(40, 150, 136);
+   text-align: center;
 }
 
 .img-barcelona{
@@ -17,37 +18,68 @@ body {
 }
 
 .img-BSAS{
-
+    width:14.8%;
+    height: auto;
+    border: 10px solid white;
+    margin-left: 8px;
 }
 
 .img-madrid{
-
+    width:17.8%;
+    height: auto;
+    border: 10px solid white;
+    margin-left: 8px;
 }
 
 .img-miami{
-
+    width:15%;
+    height: auto;
+    border: 10px solid white;
+    margin-left: 8px;
 }
 
 .img-paris{
-
+    width:12.7%;
+    height: auto;
+    border: 10px solid white;
+    margin-left: 8px;
 }
 
 .img-pipa{
-
+    width:7.55%;
+    height: auto;
+    border: 10px solid white;
+    margin-left: 8px;
 }
 
 .img-rdj{
-
+    margin-top: 8px;
+    width:22.4%;
+    height: auto;
+    border: 10px solid white;
+    margin-left: 8px;
 }
 
 .img-roma{
-
+    margin-top: 8px;
+    width:15%;
+    height: auto;
+    border: 10px solid white;
+    margin-left: 8px;
 }
 
 .img-rosario{
-
+    margin-top: 8px;
+    width:16.9%;
+    height: auto;
+    border: 10px solid white;
+    margin-left: 8px;
 }
 
 .img-tokio{
-
+    margin-top: 8px;
+    width:16.9%;
+    height: auto;
+    border: 10px solid white;
+    margin-left: 8px;
 }
